@@ -1,2 +1,2 @@
 # helloworld
-flask_hw
+flask hello world app
